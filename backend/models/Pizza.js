@@ -7,7 +7,8 @@
   * toppings
   * crust
   * cheese
-  * price
+  * discount
+  * Price
 }
 
  */
